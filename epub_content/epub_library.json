@@ -1,0 +1,9 @@
+[
+    {
+        "title" : "Œuvres incomplètes",
+        "author" : "Jean de la Ville de Mirmont",
+        "coverHref" : "epub_content/mirmont/OEBPS/Images/cover.jpg",
+
+        "rootUrl" : "epub_content/mirmont"
+    }
+]

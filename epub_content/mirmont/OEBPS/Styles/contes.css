@@ -1,0 +1,202 @@
+/*déclaration de la police, vos papiers*/
+/*Alexandria pour les titres*/
+@font-face
+{
+font-family: "alex";
+font-style: normal;
+font-weight: normal;
+src: url(../Fonts/AlexandriaFLF.ttf);
+}
+@font-face
+{
+font-family: "alex";
+font-style: normal;
+font-weight: bold;
+src: url(../Fonts/AlexandriaFLF-Bold.ttf);
+}
+@font-face
+{
+font-family: "alex";
+font-style: italic;
+font-weight: normal;
+src: url(../Fonts/AlexandriaFLF-Italic.ttf);
+}
+@font-face
+{
+font-family: "alex";
+font-style: italic;
+font-weight: bold;
+src: url(../Fonts/AlexandriaFLF-BoldItalic.ttf);
+}
+/*Gentium Basic pour le corps du texte*/
+@font-face
+{
+font-family: "gentium";
+font-style: normal;
+font-weight: normal;
+src: url(../Fonts/GenBasR.ttf);
+}
+@font-face
+{
+font-family: "gentium";
+font-style: italic;
+font-weight: normal;
+src: url(../Fonts/GenBasI.ttf);
+}
+@font-face
+{
+font-family: "gentium";
+font-style: normal;
+font-weight: bold;
+src: url(../Fonts/GenBasB.ttf);
+}
+@font-face
+{
+font-family: "gentium";
+font-style: italic;
+font-weight: bold;
+src: url(../Fonts/GenBasBI.ttf);
+}
+/*styles les plus généraux, h(n) et body dont le font-size est en % vu qu'Adobe empêche d'augmenter la taille si on choisit une autre unité*/
+body
+{
+margin: 1em 2em;
+font-size: 100%;
+font-family: "gentium", Garamond, Times, serif;
+line-height: 1.3;
+orphans : 3;
+widows : 3;
+}
+h1 
+{
+font-family: "alex", Arial, sans-serif;
+font-weight: bold;
+font-size:300%;
+text-align: center;
+padding:20% 2%;
+}
+h1, h2, h3
+{
+page-break-after: avoid;
+break-after: avoid;
+}
+h2, h3
+{
+font-family: "alex", Times, sans-serif;	
+font-weight: normal;
+}
+h2
+{
+font-size:150%;
+}
+h3
+{
+font-size: 120%;
+}
+/*Gestion des styles du corps du texte*/
+pre, p /*pre c'est aussi pour le corps du texte des poèmes*/
+{
+font-family: "gentium", Garamond, Times, Serif;
+}
+p
+{
+text-indent: 2%;
+}
+a
+{
+text-decoration: none;
+border-bottom: 1px dashed #000000;
+color: #000099;
+}
+
+i
+{
+font-style: italic;
+}
+b
+{
+font-weight: bold;
+}
+/*Gestion des images (enfin de la seule image, à la toute fin de l'ebook)*/
+.picture {
+text-align: center;
+height: 99%;
+display: block;
+}
+.picture > img {
+width: auto;
+max-width: 100%;
+height: 100%;
+object-fit: contain;
+}
+/*Gestion des césures*/
+h1,h2,h3
+{
+adobe-hyphenate: none;
+-webkit-hyphens: none;
+-moz-hyphens: none;
+-ms-hyphens: none;
+-epub-hyphens: none;
+hyphens: none;
+} 
+
+/*style des lettrines*/
+.premier 
+{
+text-indent: 0; /*pour qu'il y ait pas trop de distance entre la première et la deuxième ligne du premier paragraphe (du à la taillde la lettrine)*/
+} 
+.lettrine
+{
+float:left;
+display:inline;
+font-size:200%;
+padding-right:0.4em; /* pour donner un peu de mou sur la droite de la lettrine*/ 
+margin-bottom: -0.1em;
+
+}
+/*== style de MON AMI LE PROPHETE ==*/
+
+/*style des petites citations, des chants qu'on trouve dans les contes*/
+.chants
+{
+font-size: 85%;
+font-family: "gentium", Garamond, Times, serif;
+text-align: center;
+line-height:80%;
+font-style: italic;
+}
+/*style des titres des contes*/
+.titreconte
+{
+text-align: center;
+margin: 20% 2%;
+}
+
+/*style des chiffres romains qui délimite les chapitres du conte "Mon ami le prophète"*/
+.romain
+{
+font-family: "alex", arial, sans-serif;
+font-size: 200%;
+text-align:center;
+font-weight:bold;
+font-style: normal;
+margin-top: 5%;
+}	
+
+/*styler les liens de la page de "navigation"*/
+.navigation
+{
+margin-bottom: 4px;
+}
+.navigation + ul
+{
+list-style-type: square;
+padding-top: 10px;
+}
+
+/*epub check me mettait une erreur lorsque je mettais un <p align="center"> pour ma phrase alignée dans final.xhtml alors j'ai créé un id*/
+#final
+{
+text-align: center;
+}
+/*Fin*/

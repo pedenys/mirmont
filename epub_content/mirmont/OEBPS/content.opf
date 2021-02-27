@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Ces œuvres incomplètes de Jean de La Ville de Mirmont ont été réunies dans le cadre d'un projet scolaire. Ils font suite à la parution chez ePagine des &quot;Dimanches de Jean Dézert&quot; du même auteur (ePagine, 2012). Le présent ouvrage reprend certaines conceptions (typo)graphiques de l'ouvrage paru en 2012.</dc:description>
+    <dc:type>œuvres complètes</dc:type>
+    <dc:format>epub</dc:format>
+    <dc:language>fr</dc:language>
+    <dc:subject>french poetry</dc:subject>
+    <dc:publisher>Pierre-Emmanuel Denys</dc:publisher>
+    <dc:creator opf:role="aut">Jean de La Ville de Mirmont</dc:creator>
+    <dc:title>Œuvres incomplètes</dc:title>
+    <meta content="0.9.7" name="Sigil version" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2017-01-16</dc:date>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:86e3b04d-6274-4f2a-9204-24de6bfbe8a8</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="horichim_1.xhtml" href="Text/horichim_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_2.xhtml" href="Text/horichim_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_5.xhtml" href="Text/horichim_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_3.xhtml" href="Text/horichim_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_4.xhtml" href="Text/horichim_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_6.xhtml" href="Text/horichim_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_7.xhtml" href="Text/horichim_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_8.xhtml" href="Text/horichim_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_9.xhtml" href="Text/horichim_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_10.xhtml" href="Text/horichim_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_12.xhtml" href="Text/horichim_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_13.xhtml" href="Text/horichim_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_14.xhtml" href="Text/horichim_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horichim_11.xhtml" href="Text/horichim_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preface.xhtml" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_cityofbenares_txt.xhtml" href="Text/contes_cityofbenares_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_entretienaveclediable_txt.xhtml" href="Text/contes_entretienaveclediable_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lamortdesancho_txt.xhtml" href="Text/contes_lamortdesancho_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lepianodroit_txt.xhtml" href="Text/contes_lepianodroit_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lesmatelotsetlabellejulie_txt.xhtml" href="Text/contes_lesmatelotsetlabellejulie_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lespetrels_txt.xhtml" href="Text/contes_lespetrels_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lorage_txt.xhtml" href="Text/contes_lorage_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_1.xhtml" href="Text/contes_monamileprophete_txt_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes.css" href="Styles/contes.css" media-type="text/css"/>
+    <item id="AlexandriaFLF.ttf" href="Fonts/AlexandriaFLF.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlexandriaFLF-Bold.ttf" href="Fonts/AlexandriaFLF-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlexandriaFLF-BoldItalic.ttf" href="Fonts/AlexandriaFLF-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="AlexandriaFLF-Italic.ttf" href="Fonts/AlexandriaFLF-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="GenBasB.ttf" href="Fonts/GenBasB.ttf" media-type="application/x-font-ttf"/>
+    <item id="GenBasBI.ttf" href="Fonts/GenBasBI.ttf" media-type="application/x-font-ttf"/>
+    <item id="GenBasI.ttf" href="Fonts/GenBasI.ttf" media-type="application/x-font-ttf"/>
+    <item id="GenBasR.ttf" href="Fonts/GenBasR.ttf" media-type="application/x-font-ttf"/>
+    <item id="navigation.xhtml" href="Text/navigation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_entretienaveclediable.xhtml" href="Text/contes_entretienaveclediable.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lamortdesancho.xhtml" href="Text/contes_lamortdesancho.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lepianodroit.xhtml" href="Text/contes_lepianodroit.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lesmatelotsetlabellejulie.xhtml" href="Text/contes_lesmatelotsetlabellejulie.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lespetrels.xhtml" href="Text/contes_lespetrels.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_lorage.xhtml" href="Text/contes_lorage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete.xhtml" href="Text/contes_monamileprophete.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_cityofbenares.xhtml" href="Text/contes_cityofbenares.xhtml" media-type="application/xhtml+xml"/>
+    <item id="horizonchimerique.xhtml" href="Text/horizonchimerique.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes.xhtml" href="Text/contes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="credits.xhtml" href="Text/credits.xhtml" media-type="application/xhtml+xml"/>
+    <item id="final.xhtml" href="Text/final.xhtml" media-type="application/xhtml+xml"/>
+    <item id="mirmont.jpeg" href="Images/mirmont.jpeg" media-type="image/jpeg"/>
+    <item id="contes_monamileprophete_txt_2.xhtml" href="Text/contes_monamileprophete_txt_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_3.xhtml" href="Text/contes_monamileprophete_txt_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_4.xhtml" href="Text/contes_monamileprophete_txt_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_5.xhtml" href="Text/contes_monamileprophete_txt_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_6.xhtml" href="Text/contes_monamileprophete_txt_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_7.xhtml" href="Text/contes_monamileprophete_txt_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_8.xhtml" href="Text/contes_monamileprophete_txt_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contes_monamileprophete_txt_9.xhtml" href="Text/contes_monamileprophete_txt_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="credits_txt.xhtml" href="Text/credits_txt.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="navigation.xhtml"/>
+    <itemref idref="horizonchimerique.xhtml"/>
+    <itemref idref="horichim_1.xhtml"/>
+    <itemref idref="horichim_2.xhtml"/>
+    <itemref idref="horichim_3.xhtml"/>
+    <itemref idref="horichim_4.xhtml"/>
+    <itemref idref="horichim_5.xhtml"/>
+    <itemref idref="horichim_6.xhtml"/>
+    <itemref idref="horichim_7.xhtml"/>
+    <itemref idref="horichim_8.xhtml"/>
+    <itemref idref="horichim_9.xhtml"/>
+    <itemref idref="horichim_10.xhtml"/>
+    <itemref idref="horichim_11.xhtml"/>
+    <itemref idref="horichim_12.xhtml"/>
+    <itemref idref="horichim_13.xhtml"/>
+    <itemref idref="horichim_14.xhtml"/>
+    <itemref idref="contes.xhtml"/>
+    <itemref idref="contes_cityofbenares.xhtml"/>
+    <itemref idref="contes_cityofbenares_txt.xhtml"/>
+    <itemref idref="contes_entretienaveclediable.xhtml"/>
+    <itemref idref="contes_entretienaveclediable_txt.xhtml"/>
+    <itemref idref="contes_lamortdesancho.xhtml"/>
+    <itemref idref="contes_lamortdesancho_txt.xhtml"/>
+    <itemref idref="contes_lepianodroit.xhtml"/>
+    <itemref idref="contes_lepianodroit_txt.xhtml"/>
+    <itemref idref="contes_lesmatelotsetlabellejulie.xhtml"/>
+    <itemref idref="contes_lesmatelotsetlabellejulie_txt.xhtml"/>
+    <itemref idref="contes_lespetrels.xhtml"/>
+    <itemref idref="contes_lespetrels_txt.xhtml"/>
+    <itemref idref="contes_lorage.xhtml"/>
+    <itemref idref="contes_lorage_txt.xhtml"/>
+    <itemref idref="contes_monamileprophete.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_1.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_2.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_3.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_4.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_5.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_6.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_7.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_8.xhtml"/>
+    <itemref idref="contes_monamileprophete_txt_9.xhtml"/>
+    <itemref idref="credits.xhtml"/>
+    <itemref idref="credits_txt.xhtml"/>
+    <itemref idref="final.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Couverture" href="Text/cover.xhtml"/>
+  </guide>
+</package>
