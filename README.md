@@ -1,6 +1,6 @@
 # Mirmont
 
-Ebook for partial works of Jean de La Ville de Mirmont, soemtimes forgotten writer from Bordeaux, France. 
+Ebook for partial works of Jean de La Ville de Mirmont, (sometimes forgotten) writer from Bordeaux, France. 
 
 Ebook contains *L'Horizon chimérique* and *Contes*. 
 
